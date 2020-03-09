@@ -6,6 +6,6 @@ Course Name "Computer Security",
 
 Shoubra Faculy of Engineering - Benha University,
 
-Dr/ Eman Abd Elghafar
+Dr/ Eman Abd Elghafar.
 
-Eng/ Mahmoud Ramadan
+Eng/ Mahmoud Ramadan.
